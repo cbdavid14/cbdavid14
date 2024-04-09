@@ -1,6 +1,6 @@
 <h2> Hi, I'm David Consa!  👋 👋 👋</h2>
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXZkcDdyZjMyeWtqd3FrYm9qcTZvazZlNXNkcms2aDBnbjIyZml3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.unitru.edu.pe">University of Trujillo</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.cleveritgroup.com">cleveritgroup</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at <a href="https://www.cleveritgroup.com">cleveritgroup</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
