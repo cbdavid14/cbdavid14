@@ -14,7 +14,7 @@
 ```javascript
 const cbdavid14 = {
   pronouns: "He",
-  code: [Java, Kotlin, Go, Python],
+  code: [Java, NodeJs, Go, Python],
   tools: [Docker, Kubernetes, jenkins, Kafka],
   architecture: ["microservices", "event-driven", "design  pattern"],
  challenge: "I am doing the #100DaysOfCode challenge focused on golang and python"
